@@ -24,4 +24,5 @@ More to this Project is to come, such as a demo board, case 3D models, SDR Pin a
 
 UPDATE! 
 PCB hole alignment Test was a success, the RTL SDR expansion board template is ready to integrate into your designs now! 
-![IMG_6540](https://github.com/user-attachments/assets/db1867fc-d5ce-486e-82e4-23374e47bd4f)
+
+![IMG_6540](https://github.com/user-attachments/assets/76399e70-c3d3-4444-8e5a-a3983bc908ab)
