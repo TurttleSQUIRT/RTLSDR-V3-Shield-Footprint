@@ -1,8 +1,10 @@
 # RTLSDRV3-Shield-Footprint
-PCB board files for Altium and other CAD software to allow you to design addon shields for the RTL-SDR
+PCB board library files for Altium and other CAD software to allow you to design addon shields for the RTL-SDR
 ![image](https://github.com/user-attachments/assets/fd6ce70c-1677-4bbd-b527-4fcff965e1af)
 
+![image](https://github.com/user-attachments/assets/aa98bc9b-8eb1-4ed8-b9b3-725709d26c71)
 
+![image](https://github.com/user-attachments/assets/d12b4875-e1a1-4be7-8d3f-ec59744db6f6)
 
 
 
