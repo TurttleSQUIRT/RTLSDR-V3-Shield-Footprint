@@ -20,3 +20,8 @@ You may use any headers you like for the connection to the board, as long as the
 Make sure that your pins rise up off the SDR board >6.38 mm as to allow the capacitor, SMA, and USB plug room.
 
 More to this Project is to come, such as a demo board, case 3D models, SDR Pin and programming documentation etc...
+
+
+UPDATE! 
+PCB hole alignment Test was a success, the RTL SDR expansion board template is ready to integrate into your designs now! 
+![IMG_6540](https://github.com/user-attachments/assets/db1867fc-d5ce-486e-82e4-23374e47bd4f)
