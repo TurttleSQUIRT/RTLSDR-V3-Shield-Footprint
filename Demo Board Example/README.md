@@ -4,3 +4,6 @@
 
 
 This is an example demo board that is currently untested. The board is designed with the idea of integrating a new 10 PPB external OXCO Occilator component along side DIP switches for different passthrough variations connected to 2 SMA ports. This theoretical addon board also adds an I2C controlled LoRa module. Finally, the board also integrates a GPIO header with added ESD protection circuits left out of the original RTL-SDR v3.
+
+
+Board design-wise, it's optimized for thermal and RF preformance using additional copper power layers and via stitching.
